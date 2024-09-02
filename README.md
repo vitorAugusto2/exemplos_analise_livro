@@ -1,4 +1,4 @@
-# Exemplos básicos de análise de dados
+# Exemplos de análise de dados
 
 Este diretório contém 5 conjuntos de dados que são analisados usando técnicas de carregamento, manipulação e visualização de dados. O objetivo é extrair informações significativas a partir dos dados brutos, com base no livro 'Python para Análise de Dados - Tratamento de dados com pandas, NumPy e Jupyter' de Wes McKinney.
 
